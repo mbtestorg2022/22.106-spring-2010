@@ -70,7 +70,7 @@ R-Matrix Theory
 
 ([PDF]({{< baseurl >}}/resources/mit22_106s10_lec04a))
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit22_106s10_lec04b))
+([PDF]({{< baseurl >}}/resources/mit22_106s10_lec04b))
 
 
 {{< tdclose >}}
@@ -128,7 +128,7 @@ Neutron Detection
 Review of Probability and Statistics, Introduction to Monte Carlo
 {{< tdclose >}}
 {{< tdopen >}}
-Monte Carlo Lec (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 12.8MB](https://laws.lanl.gov/vhosts/mcnp.lanl.gov/pdf_files/la-ur-05-4983.pdf))  
+Monte Carlo Lec ([PDF - 12.8MB](https://laws.lanl.gov/vhosts/mcnp.lanl.gov/pdf_files/la-ur-05-4983.pdf))  
 \[Pages 1-3 through 1-8\]
 {{< tdclose >}}
 
@@ -141,7 +141,7 @@ Monte Carlo Lec (![This resource may not render correctly in a screen reader.](/
 Collision Physics and Sampling
 {{< tdclose >}}
 {{< tdopen >}}
-Monte Carlo Lec (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 12.8MB](https://laws.lanl.gov/vhosts/mcnp.lanl.gov/pdf_files/la-ur-05-4983.pdf))  
+Monte Carlo Lec ([PDF - 12.8MB](https://laws.lanl.gov/vhosts/mcnp.lanl.gov/pdf_files/la-ur-05-4983.pdf))  
 \[Pages 2-1 through 2-8, pages 3-7 through 3-22, pages 5-1 through 5-40\]
 {{< tdclose >}}
 
@@ -154,7 +154,7 @@ Monte Carlo Lec (![This resource may not render correctly in a screen reader.](/
 Tallying and Uncertainties
 {{< tdclose >}}
 {{< tdopen >}}
-Monte Carlo Lec (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 12.8MB](https://laws.lanl.gov/vhosts/mcnp.lanl.gov/pdf_files/la-ur-05-4983.pdf))  
+Monte Carlo Lec ([PDF - 12.8MB](https://laws.lanl.gov/vhosts/mcnp.lanl.gov/pdf_files/la-ur-05-4983.pdf))  
 \[Pages 6-1 through 6-26\]
 {{< tdclose >}}
 
@@ -167,7 +167,7 @@ Monte Carlo Lec (![This resource may not render correctly in a screen reader.](/
 Variance Reduction Techniques
 {{< tdclose >}}
 {{< tdopen >}}
-Monte Carlo Lec (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 12.8MB](https://laws.lanl.gov/vhosts/mcnp.lanl.gov/pdf_files/la-ur-05-4983.pdf))  
+Monte Carlo Lec ([PDF - 12.8MB](https://laws.lanl.gov/vhosts/mcnp.lanl.gov/pdf_files/la-ur-05-4983.pdf))  
 \[Pages 9-1 through 9-24\]
 {{< tdclose >}}
 
@@ -182,10 +182,10 @@ Criticality Safety / Monte Carlo Criticality
 {{< tdopen >}}
 
 
-Monte Carlo Lec (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 12.8MB](https://laws.lanl.gov/vhosts/mcnp.lanl.gov/pdf_files/la-ur-05-4983.pdf))  
+Monte Carlo Lec ([PDF - 12.8MB](https://laws.lanl.gov/vhosts/mcnp.lanl.gov/pdf_files/la-ur-05-4983.pdf))  
 \[Pages 7-1 through 7-20\]
 
-Monte Carlo Lec (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 12.8MB](https://laws.lanl.gov/vhosts/mcnp.lanl.gov/pdf_files/la-ur-05-4983.pdf))  
+Monte Carlo Lec ([PDF - 12.8MB](https://laws.lanl.gov/vhosts/mcnp.lanl.gov/pdf_files/la-ur-05-4983.pdf))  
 \[Pages 12-35\]
 
 
